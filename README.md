@@ -1,1 +1,1 @@
-# mcculloch-pitts-artificial-neuron
+# McCulloch Pitts Artificial Neuron
